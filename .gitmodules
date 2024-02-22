@@ -1,0 +1,4 @@
+[submodule "JHSBackendJobs/JHSConsumerJobs/daily-mail-scheduler"]
+	path = JHSBackendJobs/JHSConsumerJobs/daily-mail-scheduler
+	url = https://github.com/harihara876/JHS-Code.git
+	branch = dev
